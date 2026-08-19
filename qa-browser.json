@@ -1,0 +1,30 @@
+{
+  "home-desktop": {
+    "overflow": 0,
+    "broken": [],
+    "errors": [],
+    "momentTitle": "LA TOSTADA QUE QUIERAS.",
+    "momentSelected": "true"
+  },
+  "home-mobile": {
+    "overflow": 0,
+    "broken": [],
+    "errors": [],
+    "momentTitle": "LA TOSTADA QUE QUIERAS.",
+    "momentSelected": "true",
+    "menuOpen": true,
+    "menuClosed": true
+  },
+  "carta-desktop": {
+    "overflow": 0,
+    "broken": [],
+    "errors": []
+  },
+  "carta-mobile": {
+    "overflow": 0,
+    "broken": [],
+    "errors": [],
+    "menuOpen": true,
+    "menuClosed": true
+  }
+}

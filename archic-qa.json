@@ -1,0 +1,50 @@
+{
+  "status": "CLIENT_READY_CONCEPT_MEDIA_PENDING_PHOTO_SESSION",
+  "version": "V19",
+  "hard_gate_failures": [],
+  "pages": [
+    {
+      "path": "/",
+      "mode": "Atmosphere"
+    },
+    {
+      "path": "/carta/",
+      "mode": "Explore"
+    },
+    {
+      "path": "/el-cafe/",
+      "mode": "Story"
+    },
+    {
+      "path": "/visitanos/",
+      "mode": "Convert"
+    }
+  ],
+  "functional_validation": {
+    "npm_check": "PASS",
+    "npm_build": "PASS",
+    "routes": "4/4",
+    "desktop_overflow_home_carta": 0,
+    "mobile_overflow_home_carta": 0,
+    "broken_local_images": 0,
+    "console_errors": 0,
+    "reduced_motion": true,
+    "moment_selector": "PASS",
+    "mobile_menu_escape": "PASS"
+  },
+  "media_strategy": {
+    "concept_media_count": 5,
+    "real_business_reference_count": 1,
+    "concept_media_disclosed": true,
+    "final_photo_session_required": true
+  },
+  "direction_principles": [
+    "Elevate Rosario's existing identity instead of replacing it",
+    "Charcoal, cream and orange derive from real Rosario visual materials",
+    "Product abundance, terrace and social warmth are central to the experience",
+    "Photography creates perceived quality; UI supports it rather than competing with it",
+    "Carta is structured HTML/data; physical menu photos are source material only",
+    "Reject any design choice that makes Rosario look more expensive but less recognizable"
+  ],
+  "flagship_score_withheld_reason": "Final flagship media direction requires a dedicated on-site photo session replacing the five provisional concept images."
+}
